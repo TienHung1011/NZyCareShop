@@ -1,0 +1,26 @@
+.nav-link{
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffcce6;
+}
+.card{
+    border: none;
+}
+.produc-info{
+    font-weight: 500;
+}
+.list-social>.fa{
+    font-size: 40px;
+    margin-left: 15px;
+}
+
+/* ul li :hover{
+    scale: 1.2;
+    color: black;
+} */
+ul li a :hover{
+    color: #ffcce6;
+}
+ul li {
+    margin-left: 10px;
+}

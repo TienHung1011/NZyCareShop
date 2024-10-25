@@ -1,0 +1,28 @@
+<h1 class="py-5">GIỎ HÀNG</h1>
+<table class="table border text-center">
+    <tr>
+        
+        <th scope="col ">Tên</th>
+        <th scope="col">Hình ảnh</th>
+        <th scope="col">Đơn giá</th>
+        <th scope="col">Số lượng</th>
+        <th scope="col">Thành tiền</th>
+        <th></th>
+    </tr>
+    <tr ng-repeat="sp in list_cart">
+        <td>{{sp.name | uppercase}}</td>
+        <td> <img ng-src="{{sp.img}}" style="width: 60px;" alt=""> </td>
+        <td>{{sp.price |number}}</td>
+        <td> <input min="1" max="100" class="text-center" type="number" ng-model="sp.soluong"></td>
+        <td> {{ sp.price* sp.soluong | number}} VNĐ </td>
+        <td><button class="btn btn-danger" ng-click="deleProd(sp)">Delete</button></td>
+    </tr>
+    <tr>
+      <th></th>
+      <th></th>
+      
+      <th> {{tst() |number}} VNĐ </th>
+      <th>{{tsl() |number}}</th>
+      <th></th>
+    </tr>
+</table>

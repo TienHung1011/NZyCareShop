@@ -1,0 +1,556 @@
+{
+  "users": [
+    {
+      "role": "admin",
+      "username": "tienhung",
+      "password": "123",
+      "id": "ce68"
+    }
+  ],
+  "list_cart": [
+    {
+      "name": "3CE Lip",
+      "price": 190000,
+      "brand": "3CE",
+      "type": "Son Môi",
+      "img": "Picture/slideproduc2.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "soluong": 2,
+      "id": "1"
+    },
+    {
+      "id": "adde",
+      "name": "Estée Lauder Double Wear Foundation",
+      "price": 450000,
+      "brand": "Estée Lauder",
+      "type": "Kem Nền",
+      "img": "Picture/produc6.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "soluong": 1
+    }
+  ],
+  "SonMoi": [
+    {
+      "name": "3CE Lip",
+      "price": 190000,
+      "type": "SonMoi",
+      "brand": "3CE",
+      "img": "Picture/slideproduc2.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "1bdb"
+    },
+    {
+      "name": "MAC Ruby Woo",
+      "price": 250000,
+      "type": "SonMoi",
+      "brand": "MAC",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "d3e1"
+    },
+    {
+      "name": "Dior Addict Lipstick",
+      "price": 350000,
+      "type": "SonMoi",
+      "brand": "Dior",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "6f60"
+    },
+    {
+      "name": "Charlotte Tilbury Pillow Talk Lipstick",
+      "price": 380000,
+      "type": "SonMoi",
+      "brand": "Charlotte Tilbury",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "ff15"
+    }
+  ],
+  "PhanMat": [
+    {
+      "name": "Urban Decay Naked Palette",
+      "price": 500000,
+      "type": "PhanMat",
+      "brand": "Urban Decay",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "edb1"
+    },
+    {
+      "name": "Tom Ford Eye Color Quad",
+      "price": 800000,
+      "type": "PhanMat",
+      "brand": "Tom Ford",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "018b"
+    },
+    {
+      "name": "Huda Beauty Desert Dusk Eyeshadow ",
+      "price": 550000,
+      "type": "PhanMat",
+      "brand": "Huda Beauty",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "4ebc"
+    },
+    {
+      "name": "Fenty Beauty Killawatt Freestyle ",
+      "price": 320000,
+      "type": "PhanMat",
+      "brand": "Fenty Beauty",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "c27a"
+    },
+    {
+      "name": "Bobbi Brown Shimmer Brick Compact",
+      "price": 450000,
+      "type": "PhanMat",
+      "brand": "Bobbi Brown",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "4f2d"
+    },
+    {
+      "name": "Morphe x James Charles Palette",
+      "price": 600000,
+      "type": "PhanMat",
+      "brand": "Morphe",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "3a1c"
+    }
+  ],
+  "PhanTuoi": [
+    {
+      "name": "Glossier Cloud Paint",
+      "price": 220000,
+      "type": "PhanTuoii",
+      "brand": "Glossier",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "4e57"
+    }
+  ],
+  "KemCheKD": [
+    {
+      "name": "NARS Radiant Creamy Concealer",
+      "price": 280000,
+      "type": "KemCheKD",
+      "brand": "NARS",
+      "img": "Picture/produc6.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "6cff"
+    },
+    {
+      "name": "Maybelline Fit Me Concealer",
+      "price": 120000,
+      "type": "KemCheKD",
+      "brand": "Maybelline",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "c08f"
+    }
+  ],
+  "KemNen": [
+    {
+      "name": "L'Oréal Paris True Match Foundation",
+      "price": 300000,
+      "type": "KemNen",
+      "brand": "L'Oréal Paris",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "d480"
+    },
+    {
+      "name": "Estée Lauder Double Wear Foundation",
+      "price": 450000,
+      "type": "KemNen",
+      "brand": "Estée Lauder",
+      "img": "Picture/produc6.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "56a1"
+    },
+    {
+      "name": "Giorgio Armani Luminous Silk Foundation",
+      "price": 500000,
+      "type": "KemNen",
+      "brand": "Giorgio Armani",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "18b5"
+    }
+  ],
+  "NuocHoa": [
+    {
+      "name": "Chanel N°5 Perfume",
+      "price": 1500000,
+      "type": "NuocHoa",
+      "brand": "Chanel",
+      "img": "Picture/produc1.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "5504"
+    },
+    {
+      "name": "Yves Saint Laurent Black Opium Perfume",
+      "price": 600000,
+      "type": "NuocHoa",
+      "brand": "YSL",
+      "img": "Picture/produc1.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "41d2"
+    },
+    {
+      "name": "Chloé Eau de Parfum",
+      "price": 700000,
+      "type": "NuocHoa",
+      "brand": "Chloé",
+      "img": "Picture/produc1.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "21b2"
+    },
+    {
+      "name": "Marc Jacobs Daisy Eau de Toilette",
+      "price": 650000,
+      "type": "NuocHoa",
+      "brand": "Marc Jacobs",
+      "img": "Picture/produc1.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "e8ac"
+    }
+  ],
+  "KemDA": [
+    {
+      "name": "Clinique Dramatically Different Moisturizing Lotion+",
+      "price": 300000,
+      "type": "KemDA",
+      "brand": "Clinique",
+      "img": "Picture/produc8.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "2900"
+    }
+  ],
+  "KeCM": [
+    {
+      "name": "Anastasia Beverly Hills Brow Wiz",
+      "price": 250000,
+      "type": "KeCM",
+      "brand": "Anastasia Beverly Hills",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "6483"
+    }
+  ],
+  "category": [
+    {
+      "ID": "SonMoi",
+      "type": "Son Môi",
+      "img": "Picture/SonMoi.jpg",
+      "id": "774a"
+    },
+    {
+      "ID": "KemNen",
+      "type": "Kem Nền",
+      "img": "Picture/KemNen.jpg",
+      "id": "6786"
+    },
+    {
+      "ID": "KemCheKD",
+      "type": "Kem Che Khuyết Điểm",
+      "img": "Picture/kemchekd.jpg",
+      "id": "fd9d"
+    },
+    {
+      "ID": "NuocHoa",
+      "type": "Nước Hoa",
+      "img": "Picture/NuocHoa.jpg",
+      "id": "cbe1"
+    },
+    {
+      "ID": "KemDA",
+      "type": "Kem Dưỡng Ẩm",
+      "img": "Picture/KemDA.jpg",
+      "id": "4b79"
+    },
+    {
+      "ID": "KeCM",
+      "type": "Bút Kẻ Chân Mày",
+      "img": "Picture/kechanmay.jpg",
+      "id": "7adb"
+    },
+    {
+      "ID": "PhanTuoi",
+      "type": "Phấn Tươi",
+      "img": "Picture/phantuoi.jpg",
+      "id": "749a"
+    },
+    {
+      "ID": "PhanMat",
+      "type": "Phấn Mắt",
+      "img": "Picture/Phan-Mat-Romand-Better-Than-Eyes-1.jpg",
+      "id": "9ceb"
+    }
+  ],
+  "Brand": [
+    {
+      "name": "3CE",
+      "id": "5d39"
+    },
+    {
+      "name": "MAC",
+      "id": "2cd5"
+    },
+    {
+      "name": "Urban Decay",
+      "id": "7d26"
+    },
+    {
+      "name": "L'Oréal Paris",
+      "id": "a395"
+    },
+    {
+      "name": "Maybelline",
+      "id": "c1d3"
+    },
+    {
+      "name": "Chanel",
+      "id": "8ff0"
+    },
+    {
+      "name": "Dior",
+      "id": "e2f0"
+    },
+    {
+      "name": "Estée Lauder",
+      "id": "4113"
+    },
+    {
+      "name": "YSL",
+      "id": "cb07"
+    },
+    {
+      "name": "Chloé",
+      "id": "70c4"
+    }
+  ],
+  "list_prod": [
+    {
+      "name": "3CE Lip",
+      "price": 190000,
+      "type": "Son Môi",
+      "brand": "3CE",
+      "img": "Picture/slideproduc2.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "35c6"
+    },
+    {
+      "name": "MAC Ruby Woo",
+      "price": 250000,
+      "type": "Son Môi",
+      "brand": "MAC",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "17a9"
+    },
+    {
+      "name": "Urban Decay Naked Palette",
+      "price": 500000,
+      "type": "Phấn Mắt",
+      "brand": "Urban Decay",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "57f5"
+    },
+    {
+      "name": "L'Oréal Paris True Match Foundation",
+      "price": 300000,
+      "type": "Kem Nền",
+      "brand": "L'Oréal Paris",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "3d60"
+    },
+    {
+      "name": "Maybelline Fit Me Concealer",
+      "price": 120000,
+      "type": "Kem Che Khuyết Điểm",
+      "brand": "Maybelline",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "ca09"
+    },
+    {
+      "name": "Chanel N°5 Perfume",
+      "price": 1500000,
+      "type": "Nước Hoa",
+      "brand": "Chanel",
+      "img": "Picture/produc1.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "5b22"
+    },
+    {
+      "name": "Dior Addict Lipstick",
+      "price": 350000,
+      "type": "Son Môi",
+      "brand": "Dior",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "8dd5"
+    },
+    {
+      "name": "Estée Lauder Double Wear Foundation",
+      "price": 450000,
+      "type": "Kem Nền",
+      "brand": "Estée Lauder",
+      "img": "Picture/produc6.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "4869"
+    },
+    {
+      "name": "Tom Ford Eye Color Quad",
+      "price": 800000,
+      "type": "Phấn Mắt",
+      "brand": "Tom Ford",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "d606"
+    },
+    {
+      "name": "NARS Radiant Creamy Concealer",
+      "price": 280000,
+      "type": "Kem Che Khuyết Điểm",
+      "brand": "NARS",
+      "img": "Picture/produc6.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "a993"
+    },
+    {
+      "name": "Yves Saint Laurent Black Opium Perfume",
+      "price": 600000,
+      "type": "Nước Hoa",
+      "brand": "YSL",
+      "img": "Picture/produc1.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "4c17"
+    },
+    {
+      "name": "Huda Beauty Desert Dusk Eyeshadow Palette",
+      "price": 550000,
+      "type": "Phấn Mắt",
+      "brand": "Huda Beauty",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "73d7"
+    },
+    {
+      "name": "Fenty Beauty Killawatt Freestyle Highlighter",
+      "price": 320000,
+      "type": "Phấn Mắt",
+      "brand": "Fenty Beauty",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "c334"
+    },
+    {
+      "name": "Giorgio Armani Luminous Silk Foundation",
+      "price": 500000,
+      "type": "Kem Nền",
+      "brand": "Giorgio Armani",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "6156"
+    },
+    {
+      "name": "NYX Professional Makeup Soft Matte Lip Cream",
+      "price": 120000,
+      "type": "Son Môi",
+      "brand": "NYX",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "9d83"
+    },
+    {
+      "name": "Bobbi Brown Shimmer Brick Compact",
+      "price": 450000,
+      "type": "Phấn Mắt",
+      "brand": "Bobbi Brown",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "71a6"
+    },
+    {
+      "name": "Clinique Dramatically Different Moisturizing Lotion+",
+      "price": 300000,
+      "type": "Kem Dưỡng Ẩm",
+      "brand": "Clinique",
+      "img": "Picture/produc8.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "73b4"
+    },
+    {
+      "name": "Chloé Eau de Parfum",
+      "price": 700000,
+      "type": "Nước Hoa",
+      "brand": "Chloé",
+      "img": "Picture/produc1.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "1cce"
+    },
+    {
+      "name": "Too Faced Better Than Sex Mascara",
+      "price": 350000,
+      "type": "Mascara",
+      "brand": "Too Faced",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "969b"
+    },
+    {
+      "name": "Charlotte Tilbury Pillow Talk Lipstick",
+      "price": 380000,
+      "type": "Son Môi",
+      "brand": "Charlotte Tilbury",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "e178"
+    },
+    {
+      "name": "Morphe x James Charles Palette",
+      "price": 600000,
+      "type": "Phấn Mắt",
+      "brand": "Morphe",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "a2c8"
+    },
+    {
+      "name": "Anastasia Beverly Hills Brow Wiz",
+      "price": 250000,
+      "type": "Bút Kẻ Chân Mày",
+      "brand": "Anastasia Beverly Hills",
+      "img": "Picture/slideproduc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "01a0"
+    },
+    {
+      "name": "Glossier Cloud Paint",
+      "price": 220000,
+      "type": "Phấn Tươi",
+      "brand": "Glossier",
+      "img": "Picture/produc4.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "2b81"
+    },
+    {
+      "name": "Marc Jacobs Daisy Eau de Toilette",
+      "price": 650000,
+      "type": "Nước Hoa",
+      "brand": "Marc Jacobs",
+      "img": "Picture/produc1.webp",
+      "text": "Son môi Dior Addict Stellar Shine là sự kết hợp hoàn hảo giữa màu sắc tươi mới và độ ẩm dưỡng môi đặc biệt. Với công nghệ Hydra-Gel Core lại cảm giác mềm mại và dưỡng ẩm cho đôi môi suốt cả ngày dài. Sự kết hợp của các tinh chất dưỡng ẩm và dầu dưỡng giúp làm mềm và bảo vệ môi khỏi tác động của môi trường bên ngoài. Với gam màu đa dạng từ những tông màu tự nhiên đến các gam màu rực rỡ, Dior Addict Stellar Shine là lựa chọn hoàn hảo cho những ai yêu thích sự tươi mới và quyến rũ.",
+      "id": "99f0"
+    }
+  ]
+}
