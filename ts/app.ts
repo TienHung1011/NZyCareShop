@@ -19,7 +19,8 @@ type TBrand ={
 type TProduct = {
     name: String,
     price: number,
-    img: string
+    img: string, 
+    id: string
 }
 const showlistbrand = async()=>{
     let arr:TBrand[] = await fetch(URL_API+"/Brand")
@@ -100,7 +101,7 @@ const showlistsp = async () => {
 
 const show1SP = (sp: TProduct) => {
     return `<div class="product">
-        <a href="#">
+        <a href="productinfo.html?id=${sp.id}" class="product-link">
             <img src="${sp.img}" alt="${sp.name}" loading="lazy">
             <p class="product-name">${sp.name}</p>
             <span class="product-price">${Number(sp.price).toLocaleString("vi")} VNĐ</span>

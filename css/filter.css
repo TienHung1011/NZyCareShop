@@ -124,7 +124,9 @@ body {
     font-size: 30px;
     margin-left: 10px;
 }
+
 /* Footer */
+
 .footer {
     background-color: black;
     color: #f8f9fa;
@@ -177,8 +179,8 @@ body {
 
 
 .sidebar {
-    flex: 0 0 300px; /* Đặt chiều rộng cố định, bạn có thể thay đổi 250px theo ý muốn */
-    height: 110vh;
+    flex: 0 0 300px; 
+    height: 115vh;
     margin-top: 10px;
     padding: 20px;
     background-color: #f8f8f8;
@@ -187,17 +189,38 @@ body {
 }
 
 .sidebar h2 {
-    color: #f08dc0;
+    color: black;
     font-size: 1.5em;
     margin-bottom: 10px;
     margin-top: 10px;
 }
 
+.category-title {
+    background-color: #ffe4e6; 
+    color: #333; 
+    padding: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 16px;
+    position: relative;
+    text-align: center;
+}
+
+
+.list-group {
+    padding: 0;
+    margin: 0;
+}
+
 .list-group-item {
     display: block;
     padding: 10px;
-    color: black;
     text-decoration: none;
+    color: #333;
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    margin: 5px;
+    text-align: center;
 }
 
 .list-group-item:hover {
@@ -246,21 +269,20 @@ body {
 #sanpham #data > div img{
     object-fit: cover;
 }
-/* Đảm bảo sản phẩm hiển thị đẹp */
 .product-list {
     display: flex;
-    flex-wrap: wrap; /* Cho phép sản phẩm xuống dòng */
+    flex-wrap: wrap; 
 }
 
 .product {
-    width: calc(33.33% - 20px); /* Chiếm 1/3 chiều rộng */
-    margin: 10px; /* Khoảng cách giữa các sản phẩm */
-    border: 1px solid #ddd; /* Viền cho sản phẩm */
-    padding: 10px; /* Padding cho sản phẩm */
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Đổ bóng cho sản phẩm */
+    width: calc(33.33% - 20px); 
+    margin: 10px; 
+    border: 1px solid #ddd; 
+    padding: 10px; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
 }
 
 .product img {
-    max-width: 100%; /* Giới hạn kích thước hình ảnh */
-    height: auto; /* Đảm bảo tỉ lệ hình ảnh */
+    max-width: 100%; 
+    height: auto;
 }

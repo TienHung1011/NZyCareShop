@@ -248,10 +248,10 @@ body {
 
     background-color: white; 
     text-align: center; 
-    width: 19%; /* Approximately 20% width for 5 items per row */
+    width: 19%; 
     box-sizing: border-box;
     transition: transform 0.3s ease;
-    margin: 20px 0 20px 0; /* Bottom margin only */
+    margin: 20px 0 20px 0; 
 }
 
 #sanphamnoibat #data > div:hover {
