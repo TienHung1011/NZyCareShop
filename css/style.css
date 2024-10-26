@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#gotop{
+    color: white;
+    position: fixed;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 8px 11px;
+    bottom: 20px;
+    right: 20px;
+    background-color: #f897c9;
+    z-index: 1001;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-link {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.heart-icon {
+    color: #ff98cd;
+}
+
+.logo-text {
+    font-size: 40px;
+    color: #ff85c4;
+    margin-left: 15px;
+    font-weight: 700;
+}
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    height: 70px;
+    display: flex;
+    position: sticky;
+    top: 0; 
+    z-index: 1000; 
+}
+
+
+
+.navbar-list {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    font-size: 20px;    
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #f873b8;
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    color: #ffcce6;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+.search-form {
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    height: 40px;
+    border-radius: 20px;
+    padding: 0 15px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+
+.search-btn {
+    background-color: #ffcce6;
+    border: none;
+    border-radius: 50%;
+    padding: 8px;
+    margin-left: 5px;
+    margin-right: 15px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.user-cart {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.icon-link {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+
+
+/* Footer */
+.footer {
+    background-color: black;
+    color: #f8f9fa;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 350px;
+}
+
+.footer-info {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.footer-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.footer-info p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.list-social {
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+.list-social i {
+    margin: 0 10px;
+    color: #f8f9fa;
+    cursor: pointer;
+}
+
+.list-social i:hover {
+    color: #ffcce6;
+}
+
+.policy {
+    font-size: 15px;
+    margin-top: 10px;
+    color: #f8f9fa;
+}
+
+#category_list {
+    padding: 20px 20px; 
+    width: 100%;
+}
+
+
+#category_list #data {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+
+#category_list >h2 {
+    color: #f08dc0;
+    text-align: center; 
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+#category_list #data > div {
+    background-color: white; 
+    margin: 15px; 
+    text-align: center; 
+    width: 23%; 
+    max-width: 200px; 
+}
+
+#category_list #data > div:hover {
+    transform: scale(1.05); 
+}
+
+#category_list #data > div img {
+    width: 170px;
+    height: 170px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    margin-top: 10px; 
+}
+
+#category_list #data > div .product p {
+    margin-top: 10px; 
+}
+
+#category_list #data > div .product a {
+    text-decoration: none; 
+    color: #f08dc0; 
+    font-weight: bold; 
+}
+
+#sanphamnoibat {
+    padding: 40px 20px; 
+    width: 100%;
+}
+
+#sanphamnoibat #data {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+
+#sanphamnoibat > h2 {
+    color: #f08dc0;
+    text-align: center; 
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+#sanphamnoibat #data > div a {
+    text-decoration: none;
+}
+#sanphamnoibat #data > div {
+
+    background-color: white; 
+    text-align: center; 
+    width: 19%; /* Approximately 20% width for 5 items per row */
+    box-sizing: border-box;
+    transition: transform 0.3s ease;
+    margin: 20px 0 20px 0; /* Bottom margin only */
+}
+
+#sanphamnoibat #data > div:hover {
+    transform: scale(1.05);
+}
+
+#sanphamnoibat #data > div img {
+    width: 225px; 
+    height: 225px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    margin-top: 10px; 
+}
+
+#sanphamnoibat #data > div .product p {
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: black;
+}
+
+#sanphamnoibat #data > div .product span {
+    text-decoration: none; 
+    color: red; 
+    font-weight: 700; 
+}
+
+

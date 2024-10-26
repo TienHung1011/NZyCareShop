@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/filter.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="container"> 
+        <nav class="navbar">
+        <div class="logo-container">
+            <a href="#!" class="logo-link">
+                <i class="fa fa-heart-o heart-icon" style="font-size: 40px;" aria-hidden="true"></i>
+                <strong class="logo-text">NZy Care</strong>
+            </a>
+        </div>
+        <ul class="navbar-list">
+            <li><a href="index.html" class="nav-link">TRANG CHỦ</a></li>
+            <li><a href="filter.html" class="nav-link">SẢN PHẨM</a></li>
+            <li><a href="index.html#sanphamnoibat" class="nav-link">NỔI BẬT</a></li>
+            <li><a href="#footer" class="nav-link">LIÊN HỆ</a></li>
+            <li><a href="#footer" class="nav-link">TRỢ GIÚP</a></li>
+        </ul>
+        <div class="search-container">
+            <form class="search-form">
+                <input type="text" class="search-input" placeholder="Từ khóa tìm kiếm">
+                <button type="button" class="search-btn">
+                    <i class="fa fa-search search-icon" aria-hidden="true"></i>
+                </button>
+            </form>
+        </div>
+        <div class="user-cart">
+            <a href="#!login" class="icon-link"><i class="fa fa-user-o user-icon" aria-hidden="true"></i></a>
+            <a href="#!cart" class="icon-link"><i class="fa fa-shopping-cart cart-icon" aria-hidden="true"></i></a>
+        </div>
+    </nav>
+    <main>
+    <section class="body">
+        <a href="#top" id="gotop"><i class="fa fa-arrow-up" aria-hidden="true"></i>            </a>
+                <aside class="sidebar">
+                    <div class="product-category">
+                    <div id="category_list">
+                        <h2>DANH MỤC</h2>
+                        <div id="list-group">
+                            
+                        </div>
+                    </div>
+                    </div>
+                    <div class="product-category">
+                    <div id="brand">
+                        <h2>THƯƠNG HIỆU</h2>
+                        <div id="list-group">
+                    
+                        </div>
+                    </div>
+                    </div>
+                    <div class="product-category">
+                        <h2>PHÂN LOẠI SẢN PHẨM</h2>
+                        <div class="list-group">
+                            <a href="#" class="list-group-item">Hàng bán chạy</a>
+                            <a href="#" class="list-group-item">Hàng mới</a>
+                            <a href="#" class="list-group-item">Hàng giảm giá</a>
+                            <a href="#" class="list-group-item">Hàng đặc biệt</a>
+                            <a href="#" class="list-group-item">Hàng xem nhiều</a>
+                        </div>
+                    </div>
+                </aside>
+                <section id="sanpham">
+                    <div id="data"></div>
+                </section>
+    </section>
+    
+</main>
+<footer id="footer">
+    <div class="footer">
+        <div class="footer-info">
+            <h4 class="footer-title">Giới thiệu</h4>
+            <p>MSSV: PS34877</p>
+            <p>Họ tên sinh viên: Đinh Tiến Hùng</p>
+            <p>Liên hệ: (+84) 123 456 789</p>
+            <p>Địa Chỉ: 100 Xô Viết Nghệ Tĩnh, Phường 21, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam</p>
+            <p>Đăng ký nhận tin: Đăng ký để nhận thông tin mới nhất và các ưu đãi đặc biệt!</p>
+            <p>Theo Dõi Chúng Tôi:</p>
+            <div class="list-social">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
+                <i class="fa fa-google" aria-hidden="true"></i>
+                <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+            </div>
+            <p>Chính Sách:</p>
+            <p class="policy">Chính Sách Bảo Mật | Điều Khoản Sử Dụng</p>
+            <p>FPT Polytechnic &copy; 2017. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+</div>
+</body>
+</html>
+
+<script type="module">
+    import {showcategory,getCategoriesNames,showlistbrand,showlistsp} from './js/app.js'
+    document.querySelector("#category_list #list-group").innerHTML = await getCategoriesNames();
+    document.querySelector("#brand #list-group").innerHTML = await showlistbrand();
+    document.querySelector("#sanpham #data").innerHTML = await showlistsp();
+</script>
