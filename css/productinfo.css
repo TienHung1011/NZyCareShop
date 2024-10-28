@@ -180,12 +180,13 @@ body {
 
 .sidebar {
     flex: 0 0 300px; 
-    height: 115vh auto;
+    height: 60vh;
     margin-top: 10px;
     padding: 20px;
     background-color: #f8f8f8;
     border: 1px solid #ddd;
-
+    overflow-y: auto; /* Thanh cuộn dọc */
+    overflow-x: hidden; /* Ẩn thanh cuộn ngang nếu có */
 }
 
 .sidebar h2 {
@@ -228,61 +229,174 @@ body {
     transform: scale(1.05);
 }
 
-#sanpham {
-    flex: 5;
+
+.custom-btn {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    height: 50px;
+    width: 300px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.btn-add-to-cart {
+    background-color: #ffb3da;
+}
+
+.btn-buy-now {
+    background-color: #adebad;
+}
+
+
+.custom-btn:hover {
+    opacity: 0.9;
+}
+
+
+
+#sanpham-info {
+    padding: 20px;
     width: 100%;
 }
 
-#sanpham #data{
+#sanpham-info #data {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-self: start;
+    background-color: #f9f9f9; /* Thêm màu nền nhẹ để làm nổi bật */
 }
 
-#sanpham #data > div {
+#sanpham-info #data > .prod-img {
+    border: 3px solid #f9f9f9;
     background-color: white;
     text-align: center;
-    width: 23%;
+    width: 50%;
+    padding: 20px;
     box-sizing: border-box;
-    transition: transform 0.5s ease;
+    border-radius: 8px; /* Optional: Add border radius for rounded corners */
+    overflow: hidden; /* Prevent overflow of the image */
 }
 
-#sanpham #data > div:hover {
+
+
+#sanpham-info #data > .product-description {
+    margin-top: 20px; /* Khoảng cách giữa mô tả và ảnh/nút */
+    max-width: 800px; /* Giới hạn chiều rộng */
+    text-align: justify; /* Canh đều đoạn văn */
+    margin-left: auto;
+    margin-right: auto; /* Căn giữa phần mô tả */
+}
+
+#sanpham-info #data > .produc-info {
+    background-color: white;
+    text-align: left;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 30px 30px;
+    border-radius: 8px; 
+}
+
+#sanpham-info #data > .produc-info h2 {
+    text-transform: uppercase;
+    font-size: 40px;
+}  
+
+#sanpham-info #data > .produc-info span {
+    color: red;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#sanpham-info #data > .produc-info p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+
+#sanpham-info #data > .btn {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+     /* Make buttons stretch to fill the available width */ /* Adjust the margin for better spacing */
+}
+
+.btn-group {
+    justify-content: space-between;
+    display: flex; /* Space buttons evenly */
+    padding: 20px 0; 
+    width: 100%;
+}
+
+
+.custom-btn {
+    flex: 1;  /* Make buttons equal width */
+    margin: 0 5px; /* Space between buttons */
+}
+
+.custom-btn:hover{
+    opacity: 0.8;
     transform: scale(1.05);
 }
 
-#sanpham #data > div a{
-    text-decoration: none;
+
+#sanphamhot {
+    padding: 40px 20px; 
+    width: 100%;
 }
 
-#sanpham #data > div p {
-    margin-top: 10px;
+#sanphamhot #data {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+
+#sanphamhot > h2 {
+    color: #f08dc0;
+    text-align: center; 
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+#sanphamhot #data > div a {
+    text-decoration: none;
+}
+#sanphamhot #data > div {
+    text-align: center;
+    background-color: white; 
+    text-align: center; 
+    width: 19%; 
+    box-sizing: border-box;
+    transition: transform 0.3s ease;
+    margin: 20px 0 20px 0; 
+}
+
+#sanphamhot #data > div:hover {
+    transform: scale(1.05);
+}
+
+#sanphamhot #data > div img {
+    width: 205px; 
+    height: 205px; 
+    object-fit: cover; 
+    margin-top: 10px; 
+}
+
+#sanphamhot #data > div .product p   {
+    text-align: center;    
+    margin-top: 10px; 
     margin-bottom: 10px;
     font-weight: 600;
     color: black;
 }
-#sanpham #data > div span {
-    color: red;
-    font-weight: 600;   
+
+#sanphamhot #data > div .product span {
+    text-decoration: none; 
+    color: red; 
+    font-weight: 700; 
 }
 
-#sanpham #data > div img{
-    object-fit: cover;
-}
-.product-list {
-    display: flex;
-    flex-wrap: wrap; 
-}
-
-.product {
-    width: calc(33.33% - 20px); 
-    margin: 10px; 
-    border: 1px solid #ddd; 
-    padding: 10px; 
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
-}
-
-.product img {
-    max-width: 100%; 
-    height: auto;
-}

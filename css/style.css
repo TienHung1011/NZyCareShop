@@ -231,6 +231,8 @@ body {
     display: flex; 
     flex-wrap: wrap; 
     justify-content: space-between;
+    background-color: #f9f9f9;
+    /* Thêm màu nền nhẹ để làm nổi bật */
 }
 
 #sanphamnoibat > h2 {
@@ -245,8 +247,8 @@ body {
     text-decoration: none;
 }
 #sanphamnoibat #data > div {
-
-    background-color: white; 
+    height: 330px;
+    background-color:  white; 
     text-align: center; 
     width: 19%; 
     box-sizing: border-box;
